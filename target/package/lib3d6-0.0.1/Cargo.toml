@@ -10,6 +10,7 @@
 # See Cargo.toml.orig for the original contents.
 
 [package]
+edition = "2018"
 name = "lib3d6"
 version = "0.0.1"
 authors = ["George <george@cerebralab.com>"]
