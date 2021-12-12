@@ -1,0 +1,1 @@
+/home/george/relearn_rust/lib3d6/target/package/lib3d6-0.0.1/target/debug/liblib3d6.rlib: /home/george/relearn_rust/lib3d6/target/package/lib3d6-0.0.1/src/a/mod.rs /home/george/relearn_rust/lib3d6/target/package/lib3d6-0.0.1/src/lib.rs
