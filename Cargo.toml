@@ -1,7 +1,10 @@
 [package]
 name = "lib3d6"
-version = "0.0.2"
+version = "0.0.3"
 authors = ["George <george@cerebralab.com>"]
 description = "Potentially my personal utility library, for now a test"
 license = "MIT"
 edition = "2018"
+
+[lib]
+proc-macro = true
