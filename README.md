@@ -10,7 +10,7 @@ Python printing is cool, it's pretty easy to get it working in rust.
 
 **Warning: Implementation is currently WIP, it works but I'm sure there are bugs and it's inefficient and somewhat ugly.**
 
-```
+```rust
 // Importing is kind of ugly, looking for help making it better
 // `*` import leads to ambiguity, and I can't get an import macro working
 use lib3d6::{format, print, println};
