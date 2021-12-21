@@ -1,5 +1,6 @@
+mod tmux;
+use tmux::{launch_tmux};
 use proc_macro::TokenStream;
-use std::io::Write;
 
 
 fn _format(input: TokenStream) -> TokenStream {
